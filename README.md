@@ -63,17 +63,6 @@ Me gusta construir interfaces prolijas, con atención al detalle visual y buena 
 
 ---
 
-### 📊 Estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NadiaStarna&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Nadia" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaStarna&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="38%" />
-
-</div>
-
----
-
 <div align="center">
 
 📩 <b>Abierta a oportunidades como Frontend / Full Stack Developer</b>
