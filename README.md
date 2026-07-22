@@ -53,34 +53,21 @@ Soy Nadia, Full Stack Developer orientada a Frontend, recién graduada del bootc
 
 ---
 
-### ***Proyectos destacados***
+### ***Proyecto destacado***
+
+<div align="center">
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="320" align="center">
       <h3>🧳 TravelGo</h3>
-      <p>Billetera digital multi-moneda. Proyecto grupal final del bootcamp.</p>
+      <p>Billetera digital multi-moneda. <br>Proyecto grupal bootcamp.<br></p>
       <a href="https://travelgo-pink.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Demo-live-brightgreen?style=flat-square" /></a>
-    </td>
-    <td width="50%">
-      <h3>🏔️ Patagonix</h3>
-      <p>E-commerce con temática outdoor patagónica, carrito, auth y pagos.</p>
-      <a href="https://patagonix-ecommerce.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Demo-live-brightgreen?style=flat-square" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>✅ TuAgenda</h3>
-      <p>Gestor de tareas con autenticación y notificaciones por email.</p>
-      <a href="https://gestor-tareas-m4.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Demo-live-brightgreen?style=flat-square" /></a>
-    </td>
-    <td width="50%">
-      <h3>🧙 Chat con personajes</h3>
-      <p>SPA para chatear con personajes ficticios usando IA (Google Gemini).</p>
-      <a href="https://proyecto-m3-nadia-starna-ft-73.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Demo-live-brightgreen?style=flat-square" /></a>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
