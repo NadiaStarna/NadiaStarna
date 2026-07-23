@@ -1,45 +1,43 @@
 <div align="center">
 
-# ¡Hola, soy Nadia! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" />
+# ¡Hola, soy Nadia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=22EBF7&size=20&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+orientada+a+Frontend;React+%7C+TypeScript+%7C+Vite;Buscando+mi+primera+oportunidad+en+tech" alt="Typing SVG" />
+**Full Stack Development | Frontend Development**
+
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=B08FFF&size=20&center=true&vCenter=true&width=440&lines=React+%7C+TypeScript+%7C+Vite;Buscando+mi+primera+oportunidad+en+tech" alt="Typing SVG" />
 
 </div>
 
-<img align="right" width="230" alt="Osito trabajando" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<div align="center">
 
-### ***Sobre mí***
-
-Soy Nadia, Full Stack Developer orientada a Frontend, recién graduada del bootcamp Full Stack de Henry. Trabajo principalmente con React, TypeScript y Vite, construyendo interfaces prolijas con atención al detalle visual y buena experiencia de usuario. Sigo aprendiendo todo el tiempo y estoy buscando mi primera oportunidad en tech — abierta a colaborar en proyectos y a hacer contactos en la industria.
+Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de negocio en interfaces claras y funcionales con React, TypeScript y Vite, cuidando cada detalle de la experiencia de usuario. Graduada del bootcamp intensivo de Henry, sigo profundizando mis conocimientos de forma constante y busco mi primera oportunidad laboral en tecnología.
 <br/>
 ¡Contactame!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadia-starna-895b4639a/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starnanadia00@gmail.com)
 
-<br clear="right"/>
+</div>
 
 ---
 
 ### ***Tecnologías***
 
-<div align="center">
+**Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
 
-</div>
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Bases de datos**
+
+<img src="https://skillicons.dev/icons?i=postgres,firebase" />
+
+**Herramientas y Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,vercel,vitest" />
 
 ---
 
@@ -47,7 +45,7 @@ Soy Nadia, Full Stack Developer orientada a Frontend, recién graduada del bootc
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=NadiaStarna&locale=es&background=0C0C14&border=2A2438&ring=22EBF7&fire=FF8A5C&currStreakLabel=F0A8C9&sideLabels=CFC9DE&sideNums=F2EEFC&currStreakNum=F2EEFC&dates=8A8398&hide_border=true" alt="Streak stats de Nadia" />
+<img src="https://streak-stats.demolab.com/?user=NadiaStarna&locale=es&background=0C0C14&border=2A2438&ring=B08FFF&fire=FF8A5C&currStreakLabel=B08FFF&sideLabels=CFC9DE&sideNums=F2EEFC&currStreakNum=F2EEFC&dates=8A8398&hide_border=true" alt="Streak stats de Nadia" />
 
 </div>
 
