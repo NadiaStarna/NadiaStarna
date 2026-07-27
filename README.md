@@ -38,6 +38,22 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 
 ---
 
+### ***Proyecto destacado***
+
+<div align="center">
+<table>
+  <tr>
+    <td width="320" align="center">
+      <h3>🧳 TravelGo</h3>
+      <p>Billetera digital multi-moneda. <br>Proyecto grupal bootcamp.<br></p>
+      <a href="https://travelgo-pink.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Demo-live-brightgreen?style=flat-square" /></a>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ### ***En qué estoy trabajando ahora***
 
 - 🔍 Buscando mi primera oportunidad como Frontend Developer
@@ -54,19 +70,13 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 
 ---
 
-### ***Proyecto destacado***
+### ***Test de personalidad (16Personalities)***
 
-<div align="center">
-<table>
-  <tr>
-    <td width="320" align="center">
-      <h3>🧳 TravelGo</h3>
-      <p>Billetera digital multi-moneda. <br>Proyecto grupal bootcamp.<br></p>
-      <a href="https://travelgo-pink.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Demo-live-brightgreen?style=flat-square" /></a>
-    </td>
-  </tr>
-</table>
-</div>
+**Protagonista (ENFJ-A)** — liderazgo natural, empatía y orientación hacia el desarrollo de otras personas, con especial facilidad para la comunicación y el trabajo en equipo.
+
+57% Extravertido · 64% Intuitivo · 51% de Sensación · 78% de Valoración · 69% Asertivo
+
+[![Ver perfil completo](https://img.shields.io/badge/Ver_perfil_completo-2E8B57?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.16personalities.com/profiles/da36793fca3d9)
 
 ---
 
