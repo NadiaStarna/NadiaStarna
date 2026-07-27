@@ -25,19 +25,15 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 ### ***Tecnologías***
 
 **Frontend**
-
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
 
 **Backend**
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 **Bases de datos**
-
 <img src="https://skillicons.dev/icons?i=postgres,firebase" />
 
 **Herramientas y Cloud**
-
 <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,vitest" />
 
 ---
@@ -45,9 +41,7 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 ### ***Racha de contribuciones***
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=NadiaStarna&locale=es&background=0C0C14&border=2A2438&ring=B08FFF&fire=FF8A5C&currStreakLabel=B08FFF&sideLabels=CFC9DE&sideNums=F2EEFC&currStreakNum=F2EEFC&dates=8A8398&hide_border=true" alt="Streak stats de Nadia" />
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadiaStarna&locale=es&background=0C0C14&border=2A2438&ring=B08FFF&fire=FF8A5C&currStreakLabel=B08FFF&sideLabels=CFC9DE&sideNums=F2EEFC&currStreakNum=F2EEFC&dates=8A8398&hide_border=true" alt="Streak stats de Nadia" />
 </div>
 
 ---
@@ -55,7 +49,6 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 ### ***Proyecto destacado***
 
 <div align="center">
-
 <table>
   <tr>
     <td width="320" align="center">
@@ -65,13 +58,10 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
 <div align="center">
-
 📩 <b>Abierta a oportunidades como Frontend / Full Stack Developer</b>
-
 </div>
