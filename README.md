@@ -24,17 +24,25 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 
 ### ***Tecnologías***
 
-**Frontend**
+**Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
 
-**Backend**
+**Backend**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Bases de datos**
+**Bases de datos**<br/>
 <img src="https://skillicons.dev/icons?i=postgres,firebase" />
 
-**Herramientas y Cloud**
+**Herramientas y Cloud**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,vitest" />
+
+---
+
+### ***En qué estoy trabajando ahora***
+
+- 🔍 Buscando mi primera oportunidad como Frontend Developer
+- 📚 Perfeccionando mi inglés técnico
+- 💡 Diseñando mi próximo proyecto personal: una app de gestión de facturas y gastos para freelancers argentinos, con lectura automática de comprobantes y reportes en PDF
 
 ---
 
