@@ -4,7 +4,7 @@
 
 **Full Stack Development | Frontend Development**
 
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=B08FFF&size=20&center=true&vCenter=true&width=440&lines=React+%7C+TypeScript+%7C+Vite;Buscando+mi+primera+oportunidad+en+tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7C3AED&size=20&center=true&vCenter=true&width=440&lines=React+%7C+TypeScript+%7C+Vite;Buscando+mi+primera+oportunidad+en+tech" alt="Typing SVG" />
 
 </div>
 
