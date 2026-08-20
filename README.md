@@ -16,7 +16,7 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadia-starna/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starnanadia00@gmail.com)
-[![CV](https://img.shields.io/badge/CV-FF6B35?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/user-attachments/files/31262165/CV_Nadia_Starna.pdf)
+[![CV](https://img.shields.io/badge/CV-FF6B35?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/NadiaStarna/NadiaStarna/blob/main/CV-Nadia-Starna.pdf)
 
 </div>
 
