@@ -45,7 +45,7 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
   <tr>
     <td width="320" align="center">
       <h3>🏔️ Patagonix</h3>
-      <p>Ecommerce de indumentaria outdoor. <br>Rediseño visual y funcional propio.<br></p>
+      <p>Ecommerce de indumentaria outdoor. <br>Diseño visual y funcional propio.<br></p>
       <a href="https://patagonix-ecommerce.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Demo-live-brightgreen?style=flat-square" /></a>
     </td>
   </tr>
