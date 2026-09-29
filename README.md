@@ -44,7 +44,7 @@ Desarrolladora Full Stack, enfocada en construir aplicaciones web de punta a pun
 <table>
   <tr>
     <td width="280" align="center">
-      <h3>🚗 ADC Detailing</h3>
+      <h3>🚗 ADC Detail</h3>
       <p>Sitio y sistema de turnos para un cliente real.<br>Reserva sin registro y panel de gestión.</p>
     </td>
     <td width="280" align="center">
