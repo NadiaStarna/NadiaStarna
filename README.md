@@ -4,13 +4,13 @@
 
 **Full Stack Development | Frontend Development**
 
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7C3AED&size=20&center=true&vCenter=true&width=440&lines=React+%7C+TypeScript+%7C+Vite;Buscando+mi+primera+oportunidad+en+tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7C3AED&size=20&center=true&vCenter=true&width=440&lines=React+%7C+TypeScript+%7C+Vite;Disponible+para+freelance+y+remoto" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de negocio en interfaces claras y funcionales con React, TypeScript y Vite, cuidando cada detalle de la experiencia de usuario. Graduada del bootcamp intensivo de Henry, sigo profundizando mis conocimientos de forma constante y busco mi primera oportunidad laboral en tecnología.
+Desarrolladora Full Stack, enfocada en construir aplicaciones web de punta a punta: desde el diseño de la interfaz hasta el deploy. Graduada del bootcamp intensivo de Henry, vengo sumando proyectos propios y con clientes reales.
 <br/>
 ¡Contactame!
 
@@ -31,22 +31,37 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 **Bases de datos**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" />
 
 **Herramientas y Cloud**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,vitest" />
 
 ---
 
-### ***Proyecto destacado***
+### ***Proyectos destacados***
 
 <div align="center">
 <table>
   <tr>
-    <td width="320" align="center">
+    <td width="280" align="center">
+      <h3>🚗 ADC Detailing</h3>
+      <p>Sitio y sistema de turnos para un cliente real.<br>Reserva sin registro y panel de gestión.</p>
+    </td>
+    <td width="280" align="center">
+      <h3>🧾 Presu</h3>
+      <p>Mini-SaaS para presupuestos profesionales.<br>PDF y envío por WhatsApp. (Próximamente)</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="280" align="center">
       <h3>🏔️ Patagonix</h3>
-      <p>Ecommerce de indumentaria outdoor. <br>Diseño visual y funcional propio.<br></p>
+      <p>E-commerce de indumentaria outdoor.<br>Diseño visual y funcional propio.</p>
       <a href="https://patagonix-ecommerce.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Demo-live-brightgreen?style=flat-square" /></a>
+    </td>
+    <td width="280" align="center">
+      <h3>💬 Nexa</h3>
+      <p>Chat con personajes de IA.<br>Tema visual propio por personaje.</p>
+      <a href="https://nexa-chat-ai.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Demo-live-brightgreen?style=flat-square" /></a>
     </td>
   </tr>
 </table>
@@ -56,9 +71,9 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 
 ### ***En qué estoy trabajando ahora***
 
-- 🔍 Buscando mi primera oportunidad como Frontend Developer
+- 🧾 Desarrollando Presu, mi propia herramienta para que freelancers y pequeños negocios armen y envíen presupuestos profesionales
+- 💼 Buscando nuevos proyectos freelance y una oportunidad para sumarme a un equipo remoto
 - 📚 Perfeccionando mi inglés técnico
-- 💡 Diseñando mi próximo proyecto personal: una app de gestión de facturas y gastos para freelancers argentinos, con lectura automática de comprobantes y reportes en PDF
 
 ---
 
@@ -81,5 +96,5 @@ Desarrolladora Full Stack orientada a Frontend. Ayudo a convertir necesidades de
 ---
 
 <div align="center">
-📩 <b>Abierta a oportunidades como Frontend / Full Stack Developer</b>
+📩 <b>Disponible para proyectos freelance y oportunidades remotas como Full Stack / Frontend Developer</b>
 </div>
